@@ -1,3 +1,3 @@
 # Infrastructure automation
 
-- Chef
+- Chef repo

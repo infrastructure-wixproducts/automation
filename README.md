@@ -1,3 +1,4 @@
 # Infrastructure automation
 
-- Chef repo
+- template-repo
+- sodimm repo
